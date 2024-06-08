@@ -15,6 +15,7 @@ header {
 
 #logo {
     margin-right: auto;
+    font-weight: bold;
 }
 
 .nav-container {
@@ -23,6 +24,7 @@ header {
     gap: 12px;
     padding: 0 48px;
     margin-bottom: 36px;
+    margin-top: 12px;
 }
 
 .header-container {
